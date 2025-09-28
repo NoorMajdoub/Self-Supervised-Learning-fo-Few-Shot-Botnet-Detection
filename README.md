@@ -1,5 +1,8 @@
 # Network Traffic Classification using DAE-BYOL
 
+## Full report  (bit in progress)
+https://docs.google.com/document/d/1UfTX9nY3h6HOpv-4OhZPO9AIa3x7MXwarfY1n4oaAeU/edit?usp=sharing
+
 ## What this is
 A class project testing whether combining denoising autoencoders with BYOL works for botnet detection. Got decent results on CTU-13 dataset.
 
