@@ -18,5 +18,3 @@ A class project testing whether combining denoising autoencoders with BYOL works
 - AUROC: 0.98
 - Embeddings show clear separation between normal/botnet traffic
 
-## TO DO later
-- cross validation on other datasets for generalization
